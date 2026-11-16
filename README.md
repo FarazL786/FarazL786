@@ -13,8 +13,8 @@ I have a background in technical support and am currently developing practical S
 ## Cybersecurity Projects
 
 | Project | Description | Link |
-|---------|-------------|------|
-| Coming soon | Microsoft Sentinel SOC Lab | Coming soon |
+|---|---|---|
+| Microsoft Sentinel SOC Lab | Built an Azure-based SOC lab using Microsoft Sentinel, Sysmon and KQL to detect, investigate and respond to suspicious authentication activity. | [View Project](https://github.com/FarazL786/sentinel-soc-lab) |
 | Coming soon | Phishing Email Analysis | Coming soon |
 | Coming soon | SOC Alert Triage | Coming soon |
 
